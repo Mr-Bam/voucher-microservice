@@ -3,4 +3,6 @@
 /config/*
 /data/*
 /logs/*
-/www/**
+/www/vendor
+/www/.idea
+/www/.env
